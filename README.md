@@ -20,6 +20,8 @@ Lo que se adjunta es el fichero .ipynb y los ficheros de salida, en csv, por eje
 Ejecutando el .ipynb se puede leer directamente el dataframe que se obtiene de escanear unos 250 noticias únicas y el análisis de gráficas y resultados que realizamos.
 Nos hemos limitado a esa cantidad para no cargar la web con una lectura sucesiva de muchas páginas; esto es solo un ejercicio de scraping.
 
+Concluimos, entre otras cosas, que el valor de karma de las noticias del hilo principal no parece depender de los otros parámetros, ya que debe ser obtenido probablemente por un periodo extraordinariamente largo de aportaciones; el karma promedio de estos aportadores puede estar en un valor de 350.
+
 # Exercici de scraping 
 
 # Autors: Antonio Nogueras i Alexandre Casanovas
@@ -43,6 +45,8 @@ El que s'adjunta és el fitxer .ipynb i els fitxers d'eixida, en csv, per exempl
 Executant el .ipynb es pot llegir directament el dataframe que s'obté d'escanejar uns 250 notícies úniques i l'anàlisi de gràfiques i resultats que realitzem.
 Ens hem limitat a aqueixa quantitat per a no carregar la web amb una lectura successiva de moltes pàgines; això és només un exercici de scraping.
 
+Concloem, entre altres coses, que el valor de karma de les notícies del fil principal no sembla dependre dels altres paràmetres, ja que ha de ser obtingut probablement per un període extraordinàriament llarg d'aportacions; el karma mitjà d'aquests aportadors pot estar en un valor de 350.
+
 # Scraping exercise
 
 # Authors: Antonio Nogueras and Alexandre Casanovas
@@ -65,4 +69,5 @@ Attached are the .ipynb- and output files, for example, in csv format.
 By running the .ipynb you can directly read the dataFrame obtained from scanning about 250 unique news items and the analysis of graphs and results we perform.
 We have limited ourselves to that amount in order to avoid overload the web with a successive reading of many pages; this is just a scraping exercise.
 
+We conclude, among other aspects, that the karma value of the main news thread does not seem to depend on the other parameters, as it is probably obtained by contributions along an extraordinarily long time period; the average karma of these contributors of the main thread may be at a value of 350.
 
