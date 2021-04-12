@@ -22,6 +22,8 @@ Nos hemos limitado a esa cantidad para no cargar la web con una lectura sucesiva
 
 Concluimos, entre otras cosas, que el valor de karma de las noticias del hilo principal no parece depender de los otros parámetros, ya que debe ser obtenido probablemente por un periodo extraordinariamente largo de aportaciones; el karma promedio de estos aportadores puede estar en un valor de 350.
 
+Hay una versión 2: meneame_scrapingV2.ipynb para el caso de que de fallos en Windows 10.  Produce además un fichero Excel de los datos.
+
 # Exercici de scraping 
 
 # Autors: Antonio Nogueras i Alexandre Casanovas
@@ -47,6 +49,8 @@ Ens hem limitat a aqueixa quantitat per a no carregar la web amb una lectura suc
 
 Concloem, entre altres coses, que el valor de karma de les notícies del fil principal no sembla dependre dels altres paràmetres, ja que ha de ser obtingut probablement per un període extraordinàriament llarg d'aportacions; el karma mitjà d'aquests aportadors pot estar en un valor de 350.
 
+Hi ha una versió 2: meneame_scrapingV2.ipynb per al cas de fallades en Windows 10. Produeix a més un fitxer Excel de les dades.
+
 # Scraping exercise
 
 # Authors: Antonio Nogueras and Alexandre Casanovas
@@ -71,3 +75,4 @@ We have limited ourselves to that amount in order to avoid overload the web with
 
 We conclude, among other aspects, that the karma value of the main news thread does not seem to depend on the other parameters, as it is probably obtained by contributions along an extraordinarily long time period; the average karma of these contributors of the main thread may be at a value of 350.
 
+There is a version 2: meneame_scrapingV2.ipynb in case of Windows 10 failures. It also produces an Excel file of the data.
